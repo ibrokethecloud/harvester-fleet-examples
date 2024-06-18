@@ -11,7 +11,7 @@ metadata:
   namespace: default
 spec:
   checksum: ""
-  displayName: opensuse
+  displayName: "opensuse-leap-15.5"
   pvcName: ""
   pvcNamespace: ""
   retry: 3
